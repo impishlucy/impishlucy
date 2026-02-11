@@ -13,7 +13,7 @@
 <br>
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
 [![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)](#)
-[![Tanstack Router](https://img.shields.io/badge/Tanstack%20Router-teal?logo=tanstack&logoColor=white)](#)
+[![Tanstack](https://img.shields.io/badge/Tanstack-teal?logo=tanstack&logoColor=white)](#)
 [![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-%232F3134?logo=shadcnui&logoColor=white)](#)
 [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
 <br>
