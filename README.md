@@ -1,8 +1,9 @@
 # About Me:
 <div>
 <span>🌷 I’m a 27 y.o. Trans Girl from Germany.</span></br>
-<span>⚡ I make Software, Games & learn Web Dev</span></br>
+<span>⚡ I make Software, Games & learn Web Dev.</span></br>
 <span>💻 I use both Windows & Linux.</span>
+<span>🗄️ Screw Prisma & Drizzle, Raw SQL is the King.</span>
 </div>
 
 # Tech Stack
