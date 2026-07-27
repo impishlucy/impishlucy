@@ -1,14 +1,13 @@
 # About Me:
 <div>
-<span>🌷 I’m a 27 y.o. Trans Girl from Germany.</span></br>
-<span>⚡ I make Software, Games & learn Web Dev.</span></br>
-<span>💻 I use both Windows & Linux.</span></br>
-<span>🗄️ Screw Prisma & Drizzle, Raw SQL is the King.</span>
+<span>🌷 I’m a 27 y.o. Girl from Germany.</span></br>
+<span>⚡ I make Software, Games & Web Apps.</span></br>
+<span>💻 I use Mac, but also Linux & Win.</span></br>
 </div>
 
 # Tech Stack
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](#)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](#)
 [![VB6](https://img.shields.io/badge/Visual%20Basic%206-blue?logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)](#)
 <br>
@@ -20,11 +19,13 @@
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)](#)
 <br>
+[![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
+[![Rider](https://img.shields.io/badge/Rider-%232F3134?logo=rider&logoColor=fff)](#)
 [![WebStorm](https://img.shields.io/badge/WebStorm-%232F3134?logo=webstorm&logoColor=fff)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/VSCode-0078d7.svg?logo=vsc&logoColor=white)](#)
-[![Rider](https://img.shields.io/badge/Rider-%232F3134?logo=rider&logoColor=fff)](#)
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)
 <br>
+[![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
 [![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)
