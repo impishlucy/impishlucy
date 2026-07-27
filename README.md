@@ -5,7 +5,7 @@
 <span>💻 I use Mac, but also Linux & Win.</span></br>
 </div>
 
-# Tech Stack
+# Tech Stack (Primary ones)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](#)
 [![VB6](https://img.shields.io/badge/Visual%20Basic%206-blue?logoColor=white)](#)
