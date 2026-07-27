@@ -24,7 +24,6 @@
 [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)
 [![Rider](https://img.shields.io/badge/Rider-%232F3134?logo=rider&logoColor=fff)](#)
 [![WebStorm](https://img.shields.io/badge/WebStorm-%232F3134?logo=webstorm&logoColor=fff)](#)
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/VSCode-0078d7.svg?logo=vsc&logoColor=white)](#)
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)
 <br>
 [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
