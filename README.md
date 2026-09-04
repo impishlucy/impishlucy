@@ -3,6 +3,7 @@
 <span>🌷 I’m a 27 y.o. Girl from Germany.</span></br>
 <span>⚡ I make Software, Games & Web Apps.</span></br>
 <span>💻 I use Mac, but also Linux & Win.</span></br>
+<span>My Game Projects are closed source.</span></br>
 </div>
 
 ## Tech Stack (Primary ones)
