@@ -9,7 +9,7 @@
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](#)
 [![VB6](https://img.shields.io/badge/Visual%20Basic%206-blue?logoColor=white)](#)
-[![HTML & CSS](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![HTML & CSS](https://img.shields.io/badge/HTML%20%26%20CSS-orange?logoColor=white)](#)
 <br>
 [![Next.js](https://img.shields.io/badge/Next.js-%232F3134?logo=next.js&logoColor=white)](#)
 [![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)](#)
